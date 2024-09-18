@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fredel
 - 👀 I am a Golang and Nodejs developer
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning with ALX
 - 💞️ I’m looking to collaborate on software engineering related topics
 - 📫 How to reach me on (Twitter: @FredelVictor, Email: victorisholaoladele@gmail.com, WhatsApp: 09031599595)
 
